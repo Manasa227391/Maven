@@ -30,7 +30,7 @@ Output:
 #include<stdio.h>
 #include <stdlib.h>
 
-int main()
+int mainpalin()
 {
 char s[100];
 scanf("%s",s);

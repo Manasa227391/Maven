@@ -2,7 +2,7 @@
 // using nested if-else
 #include <stdio.h>
 
-int main()
+int mainbig3()
 {
     int c = 10, b = 22, a = 9;
 
